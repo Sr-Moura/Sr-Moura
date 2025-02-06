@@ -1,19 +1,20 @@
 
 
-<p align="center">
-  <h1>👋 Welcome to My GitHub Profile</h1>
-</p>
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 ## 🚀 About Me  
+
 I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatuapé, São Paulo. Currently, I am pursuing a degree in **Analysis and Systems Development (ADS)** at **Cruzeiro do Sul Virtual**.  
 
 ### 🔧 Professional Activities  
+
 - 🏗️ **Development of System Architecture** for automation projects  
 - 📊 **Technical and Commercial Feasibility Studies** for system implementation  
 - 💡 **Presentation of New Technologies and IT Solutions** to Grafcet’s clients  
 - 🎓 **Participation in Training Programs** focused on industrial technology solutions  
 
 ### 🛠️ Technical Skills  
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -24,7 +25,8 @@ I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatua
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-### 🌐 Connect with Grafcet  
+### 🌐 Connect with Grafcet 
+
 <p align="left">
   <a href="https://www.instagram.com/grafcetsolucoes/?hl=pt-br">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
@@ -41,6 +43,7 @@ I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatua
 </p>
 
 ### 📬 Connect with Me  
+
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielnmoura/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
