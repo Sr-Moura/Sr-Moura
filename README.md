@@ -1,4 +1,8 @@
-# 👋 Welcome to My GitHub Profile  
+
+
+<p align="center">
+  <h1>👋 Welcome to My GitHub Profile</h1>
+</p>
 
 ## 🚀 About Me  
 I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatuapé, São Paulo. Currently, I am pursuing a degree in **Analysis and Systems Development (ADS)** at **Cruzeiro do Sul Virtual**.  
@@ -20,7 +24,7 @@ I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatua
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-### 🌐 Connect with the Grafcet  
+### 🌐 Connect with Grafcet  
 <p align="left">
   <a href="https://www.instagram.com/grafcetsolucoes/?hl=pt-br">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
@@ -47,3 +51,4 @@ I am an **IT Trainee** at **Grafcet Soluções Tecnológicas**, located in Tatua
 </p>
 
 📫 **Let's connect!** Feel free to explore my projects and reach out for collaboration opportunities.
+
