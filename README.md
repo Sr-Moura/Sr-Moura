@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<h1 align="center">👋 Welcome to my GitHub profile</h1>
 
 ## 🚀 About Me  
 
